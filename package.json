@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "LinkedList.js",
   "scripts": {
-    "start": "node LinkedList.js",
     "test": "jest"
   },
   "author": "LevanDu",
